@@ -1,3 +1,8 @@
+client/build
+**/node_modules
+.idea/
+.env
+
 # Logs
 logs
 *.log
